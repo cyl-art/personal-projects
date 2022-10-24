@@ -11,5 +11,10 @@ Projects details:
    Consists of Pagerank and Heredity parts. Uses implementations of Marlov Chains and focuses on probability operations.
    Branch: project-2.
 4. Project 3
-   Consists of a Crossword part. Focuses on optimization. Uses Backtracking Search algorithm,       implemets functions for node and arc consistency enforcing.
+   Consists of a Crossword part. Focuses on optimization. Uses Backtracking Search algorithm, implemets functions for node and arc consistency enforcing.
    Branch: project-3.
+5. Project 4
+   Consists of Shopping and Nim parts. Uses scikit-learn library and principles of reinforcement learning.
+   Branch: project-4.
+6. Project 5
+   
