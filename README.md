@@ -11,5 +11,5 @@ Projects details:
    Consists of Pagerank and Heredity parts. Uses implementations of Marlov Chains and focuses on probability operations.
    Branch: project-2.
 4. Project 3
-   Consists of a Crossword part. Focuses on optimization.
+   Consists of a Crossword part. Focuses on optimization. Uses Backtracking Search algorithm,       implemets functions for node and arc consistency enforcing.
    Branch: project-3.
