@@ -17,4 +17,6 @@ Projects details:
    Consists of Shopping and Nim parts. Uses scikit-learn library and principles of reinforcement learning.
    Branch: project-4.
 6. Project 5
+   Consists of a Traffic part. Uses opencv-python, tensorflow, and a scikit-learn library.
+   Branch: project-5.
    
