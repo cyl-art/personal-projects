@@ -8,7 +8,7 @@ Projects details:
    Consists of Puzzle and Minesweeper parts.
    Branch: project-1.
 3. Project 2
-   Consists of Pagerank and Heredity parts. Uses implementations of Marlov Chains and focuses on probability operations.
+   Consists of Pagerank and Heredity parts. Uses implementations of Markov Chains and focuses on probability operations.
    Branch: project-2.
 4. Project 3
    Consists of a Crossword part. Focuses on optimization. Uses Backtracking Search algorithm, implemets functions for node and arc consistency enforcing.
@@ -19,4 +19,7 @@ Projects details:
 6. Project 5
    Consists of a Traffic part. Uses opencv-python, tensorflow, and a scikit-learn library. Implements an artificial neural network. For the performance recording see the following video: https://vimeo.com/741085007
    Branch: project-5.
+7. Project 6
+   Consists of a Parser and a Questions parts. Works with the Natural Language Processing approaches.
+   Branch: project-6.
    
