@@ -17,7 +17,7 @@ Projects details:
    Consists of Shopping and Nim parts. Uses scikit-learn library and principles of reinforcement learning.
    Branch: project-4.
 6. Project 5
-   Consists of a Traffic part. Uses opencv-python, tensorflow, and a scikit-learn library. Implements an artificial neural network. For the performance recording, see the following video: https://vimeo.com/741085007
+   Consists of a Traffic part. Uses opencv-python, tensorflow, numpy, and a scikit-learn library. Implements an artificial neural network. For the performance recording, see the following video: https://vimeo.com/741085007
    Branch: project-5.
 7. Project 6
    Consists of a Parser and a Questions parts. Works with the Natural Language Processing approaches. Uses nltk library, Context Free Grammar concept, and a tf-idf value of the documents to rank their importance.
