@@ -1,5 +1,5 @@
-# cs50-ai
-This repository contains projects done as part of the CS50’s Introduction to Artificial Intelligence with Python HarvardX course.
+# personal-projects
+This repository contains projects implemented using primarily Python, as well as packages/frameworks/other tools needed to use Python for AI and ML purposes.
 Projects details:
 1. Project 0
    Consists of Degrees and Tic-tac-toe parts. Uses implementations of Depth First Search, Breadth First Search, and Minimax algorithms.
