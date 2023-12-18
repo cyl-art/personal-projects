@@ -1,1 +1,1 @@
-Placeholder
+This project implements an algorithm to answer questions. It ranks given corpus documents based on their tf-idf value and chooses the most appropriate passage from the given corpus to answer a particular question.
