@@ -1,1 +1,1 @@
-Find the shortest "path" between a given two actors by choosing a sequence of movies or people that connect them.
+Find the shortest "path" between a given two actors by choosing a sequence of movies, other regular actors, or star actors that connect them. Selection of the actors is available in the "small" folder.
