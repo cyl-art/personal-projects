@@ -1,0 +1,6 @@
+A web scraper for eBay. This project is tailored to scrape details of the
+iphone case search page and can be used to conveniently compare prices and
+filter entries based on the desired parameters. The resultant dataset is stored
+in the .csv file. The project is written in Python, it uses 'requests' module
+for request handling, 'bs4' module for html parsing, and 'pandas' module for
+data manipulation.
