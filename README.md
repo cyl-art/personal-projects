@@ -1,6 +1,8 @@
 # personal-projects
 This repository contains my personal projects. A short descrition of each project is listed below, and a more detailed one in the `overview.txt` file available in each project. 
 
+- eBay-web-scraper: scrapes product information from eBay's website. Can be used to conveniently compare prices and
+filter entries based on the desired parameters. The resultant dataset is stored in the `.csv` file.
 - Traffic-identification: uses opencv-python, tensorflow, numpy, and a scikit-learn library, implements an artificial neural network to identify traffic signs. For the performance recording, please see the following video: https://vimeo.com/741085007.
 - Pagerank: implements an algorithm to rank web pages by importance.
 - Sales-prediction: implements an algorithm to predict whether online shopping customers will complete a purchase.
