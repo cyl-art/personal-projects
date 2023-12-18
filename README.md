@@ -3,7 +3,7 @@ This repository contains my personal projects. A short descrition of each projec
 
 - Degrees: finds the shortest "path" between given two actors depending on how they can be related by movies, etc.
 - Tic-tac-toe: uses Depth First Search, Breadth First Search, and Minimax algorithms to implement Tic-tac-toe game where a user can play against a bot.
-- Puzzle:
+- Puzzle: solves logic puzzles by using such logic operations as biconditionals, 'and', 'or', etc. 
 - Minesweeper:
 - Pagerank:
 - Heredity: Uses implementations of Markov Chains and focuses on probability operations.
