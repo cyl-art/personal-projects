@@ -1,1 +1,1 @@
-Placeholder
+This project implements a program to solve logic puzzles. 'logic.py' is a necessary supplement file which defines 'and', 'or', biconditionals, and other logical operations.
