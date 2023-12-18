@@ -1,1 +1,1 @@
-Placeholder
+This project allows a player to play against a bot which internally uses Minimax algorithm. Main project logic is available in the 'tic-tac-toe.py' file, 'runner.py' is a supplementary file necessary for running the game.
