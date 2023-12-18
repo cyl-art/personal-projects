@@ -1,1 +1,1 @@
-Placeholder
+This project implements an algorithm to parse sentences and extract noun phrases. It uses the nltk library and Context Free Grammar approach.
