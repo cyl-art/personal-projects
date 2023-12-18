@@ -1,1 +1,1 @@
-Placeholder
+This project implements an algorithm that teaches itself to play Nim using reinforcement learning.
