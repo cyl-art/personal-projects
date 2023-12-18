@@ -8,7 +8,7 @@ This repository contains my personal projects. A short descrition of each projec
 - Pagerank: implements an algorithm to rank web pages by importance.
 - Heredity: predicts how likely a person is to have a certain genetic disease.
 - Crossword: focuses on optimization, uses Backtracking Search algorithm, ensures node and arc consistency enforcing.
-- Shopping:
+- Sales-prediction: implements an algorithm to predict whether online shopping customers will complete a purchase.
 - Nim: Uses scikit-learn library and principles of reinforcement learning.
 - Traffic-identification: uses opencv-python, tensorflow, numpy, and a scikit-learn library, implements an artificial neural network to identify traffic signs. For the performance recording, please see the following video: https://vimeo.com/741085007
 - Parser: uses Context Free Grammar approach to parse a corpus of sentences.
