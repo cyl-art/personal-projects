@@ -1,1 +1,1 @@
-Placeholder
+This project implements an algorithm to predict whether online shopping customers will complete a purchase. It uses the scikit-learn library and the KNeighborsClassifier algorithm.
