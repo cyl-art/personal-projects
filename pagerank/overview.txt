@@ -1,1 +1,1 @@
-Placeholder
+This project implements an algorithm to rank web pages by importance. It uses a Random Surfer Model, each page representing a state in the Markov Chain. 
