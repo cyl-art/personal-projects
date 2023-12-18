@@ -5,8 +5,8 @@ This repository contains my personal projects. A short descrition of each projec
 - Tic-tac-toe: uses Depth First Search, Breadth First Search, and Minimax algorithms to implement Tic-tac-toe game where a user can play against a bot.
 - Puzzle: solves logic puzzles by using such logic operations as biconditionals, 'and', 'or', etc. 
 - Minesweeper: implements a minesweeper game where a user is allowed to play against a bot as well as the other user.
-- Pagerank:
-- Heredity: Uses implementations of Markov Chains and focuses on probability operations.
+- Pagerank: implements an algorithm to rank web pages by importance.
+- Heredity: predicts how likely a person is to have a certain genetic disease.
 - Crossword: focuses on optimization, uses Backtracking Search algorithm, ensures node and arc consistency enforcing.
 - Shopping:
 - Nim: Uses scikit-learn library and principles of reinforcement learning.
