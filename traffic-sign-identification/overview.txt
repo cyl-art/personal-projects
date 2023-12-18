@@ -6,4 +6,4 @@ max-pooling using (2,2) size and a dropout value of 0.5) upgraded the resulting 
 convolution (with max-pooling using (2,2) size and dropout value of 0.5) made the performance worse. After experimenting with the optimal number of convolution layers, I moved straight on to
 determining one of the hidden layers. I found out that having one hidden is the best solution as my adding of an additional one has not improved any results at all. Moreover, the optimal
 quantity of units in the hidden layer turned out to be 128, as increasing their number did not improve the network's performance, and decreasing this value had a negative effect on the
-accuracy. For the review of the performance of the network, see the following video: https://vimeo.com/741085007
+accuracy. For the review of the performance of the network, see the following video: https://vimeo.com/895900284
