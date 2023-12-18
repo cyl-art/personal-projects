@@ -1,1 +1,1 @@
-Placeholder
+This project implements a minesweeper game. The user is allowed to play against a bot as well as the other user.
